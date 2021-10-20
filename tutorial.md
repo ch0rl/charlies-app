@@ -2,7 +2,7 @@
 <hr>
 
 ## Account setup
-Register on [InfinityFree](https://app.infinityfree.net/register) and create an 'account'
+Register on [InfinityFree](https://app.infinityfree.net/register) and then create an 'account' (this is the site)
 <hr>
 
 ## Site Setup
